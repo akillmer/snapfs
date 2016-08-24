@@ -11,6 +11,7 @@ I wrote this to satisfy a particular need in another project of mine. I've yet t
 
 **TODO LIST**
 - Finishing implementing tests.
+- Make deep watching optional (recursive paths)
 - Use worker pools and goroutines within ``Update`` -- could definitely use guidance on this
 - Enhance documentation and this readme
 
